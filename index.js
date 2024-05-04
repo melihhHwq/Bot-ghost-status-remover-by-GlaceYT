@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Piper Vs izliyor","Testleri İzliyor"];
 
 
 let currentIndex = 0;
